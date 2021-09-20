@@ -1,0 +1,49 @@
+
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.header_title {
+    text-align: center;
+    margin: 15px auto;
+}
+
+.header_description {
+    margin: 15px auto;
+}
+
+.row-product {
+    margin: 32px auto;
+}
+
+
+.custom-card {
+    margin: 8px 12px;
+}
+
+.custom-image img {
+    display: block;
+}
+.custom-card-desc {
+    padding: 10px 15px;
+
+    p {
+        color: #999;
+    }
+}
+
+.cart-button {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
+
+.ant-form-item {
+    margin-bottom: 5px;
+}
+
+
+

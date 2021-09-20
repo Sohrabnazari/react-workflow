@@ -5,3 +5,9 @@
 dist
 dist-ssr
 *.local
+.idea
+.sass-cacheoutput
+output
+build
+package-lock.json
+yarn.lock
